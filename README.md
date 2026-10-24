@@ -12,4 +12,4 @@ Villanueva, Clarizze Joy C. - Backend logic
 
 
 This is Mary Grace Tucay and I am an UI/UX Designer.
-
+This is Clarizze Joy Villanueva and I am assigned to Backend logic.
