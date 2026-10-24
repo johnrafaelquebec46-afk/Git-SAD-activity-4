@@ -1,2 +1,2 @@
-This Mary Grace Tucay, I am a UI/UX Designer.
+I am Mary Grace Tucay, and I am an UI/UX Designer.
 
