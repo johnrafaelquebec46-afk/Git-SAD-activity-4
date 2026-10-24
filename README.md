@@ -7,3 +7,9 @@ Regidor, Arabella Grace - Backend database
 Sadia, Samantha Abegail A. - Frontend UI
 Tucay, Mary Grace A. - Frontent UX
 Villanueva, Clarizze Joy C. - Backend logic
+
+
+
+
+This is Mary Grace Tucay and I am an UI/UX Designer.
+
