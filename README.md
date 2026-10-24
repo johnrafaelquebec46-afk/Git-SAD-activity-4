@@ -3,16 +3,13 @@
 Team 2 Leader: Quebec, John Rafael C.
 
 Members:
-Regidor, Arabella Grace
-Sadia, Samantha Abegail A.
-Tucay, Mary Grace A.
-Villanueva, Clarizze Joy C.
+Regidor, Arabella Grace - Backend database
+Sadia, Samantha Abegail A. - Frontend UI
+Tucay, Mary Grace A. - Frontent UX
+Villanueva, Clarizze Joy C. - Backend logic
+
 
 
 
 This is Mary Grace Tucay and I am an UI/UX Designer.
 
-Regidor, Arabella Grace - Backend database
-Sadia, Samantha Abegail A. - Frontend UI
-Tucay, Mary Grace A. - Frontent UX
-Villanueva, Clarizze Joy C. - Backend logic
