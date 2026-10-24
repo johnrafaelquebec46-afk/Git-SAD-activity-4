@@ -6,3 +6,8 @@ Regidor, Arabella Grace
 Sadia, Samantha Abegail A.
 Tucay, Mary Grace A.
 Villanueva, Clarizze Joy C.
+
+
+
+This is Mary Grace Tucay and I am an UI/UX Designer.
+
